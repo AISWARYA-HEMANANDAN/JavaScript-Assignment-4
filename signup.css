@@ -1,0 +1,28 @@
+label {
+    display: block;
+}
+
+form {
+    width: 100%;
+    max-width: 450px;
+}
+
+input {
+    width: 100%;
+}
+
+.input-container {
+    position: relative;
+}
+
+#icon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+#icn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
